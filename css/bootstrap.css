@@ -314,16 +314,7 @@ img {
 .carousel-inner > .item > a > img {
   display: block;
   max-width: 100%;
-  height: 100%;
-  position: center;
-  margin: auto;
-}
-.img-responsive_mh{
-  display: block;
-  max-width: 100%;
-  height: 250px;
-  position: center;
-  margin: auto;
+  height: auto;
 }
 .img-rounded {
   border-radius: 6px;
